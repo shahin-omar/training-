@@ -1,0 +1,7 @@
+<Doctype>
+<html>
+
+<head> ppu training </head>
+
+<body> this is a sample text for index file </body>
+</html>
